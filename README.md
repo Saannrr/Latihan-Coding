@@ -1,0 +1,2 @@
+# LatihanCoding
+Repo buat latihan
